@@ -1,6 +1,7 @@
 # **Adaptive RAG Query Routing System**
-https://files.oaiusercontent.com/file-BvzBPOBjLRDEzrO95VqMb7Hk?se=2024-10-06T06%3A27%3A01Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D299%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3Dimage.png&sig=MvY3wDIWW71NLxG%2Bcu0sBqaReSbW9Ef6x2oLXpp9iEg%3D![image](https://github.com/user-attachments/assets/836d7d1d-cad1-4a13-8d8a-eb1e54b31e40)
 
+[
+](https://files.oaiusercontent.com/file-BvzBPOBjLRDEzrO95VqMb7Hk?se=2024-10-06T06%3A27%3A01Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D299%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3Dimage.png&sig=MvY3wDIWW71NLxG%2Bcu0sBqaReSbW9Ef6x2oLXpp9iEg%3D)![image](https://github.com/user-attachments/assets/22a4fbc8-df92-477d-944c-e97ad3a72549)
 
 
 The **Adaptive Retrieval-Augmented Generation (RAG) Query Routing System** intelligently routes user queries to the most relevant data source. By integrating multiple **Large Language Models (LLMs)** such as **Fireworks**, **GPT**, and **Gemini** with **LangChain** and **Chroma DB**, the system optimizes query routing based on query type, improving efficiency. Additionally, it utilizes **LangSmith** and **LangGraph** for workflow visualization and error tracing, which helps reduce operational downtime.
@@ -23,8 +24,8 @@ The **Adaptive Retrieval-Augmented Generation (RAG) Query Routing System** intel
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/your-username/adaptive-rag-query-routing-system.git
-    cd adaptive-rag-query-routing-system
+    git clone https://github.com/AnKiTu03/LangGraph
+    cd LangGraph
     ```
 
 2. **Install dependencies**:
